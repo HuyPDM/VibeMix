@@ -35,9 +35,9 @@ Pick a vibe. Build your beat.
 Music Box is a pocket loop studio for your browser. Choose a genre and mood, find sounds that fit, and layer drums, bass, chords and melody into a beat that loops in perfect time. No music theory needed.
 
 FIND SOUNDS THAT FIT
-• 72 original loops across 7 genres: lo-fi, hip-hop, EDM, house, jazz, ambient and pop
-• Filter by genre, mood (chill, dreamy, dark, energetic, happy, melancholic), sound type, tempo and key
-• Search by name or tag, like "rain", "808" or "piano"
+• 103 original loops across 7 genres: lo-fi, hip-hop, EDM, house, jazz, ambient and pop
+• Filter by genre, mood, sound type, tempo and key
+• Search the library by name or tag
 • "Great fit" badges tell you which sounds match your song's tempo and key, and explain why
 
 LISTEN, THEN ADD
@@ -52,7 +52,7 @@ MIX IT YOUR WAY
 • Gapless, drift-free looping
 
 START FAST, KEEP YOUR WORK
-• 8 starter mixes: Rainy night lo-fi, Chill study, Upbeat house, Neon festival, Dark trap, Late night jazz, Ambient drift and Sunny pop
+• 8 ready-made starter songs to play with or build on
 • Your song saves automatically; keep named copies in "My songs"
 • Open the full-page studio for a bigger view that keeps playing in the background
 
